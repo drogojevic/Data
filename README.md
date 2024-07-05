@@ -1,4 +1,4 @@
-# data
+# Data
 Content Engineer – Take Home Assignment
 • Requirements Overview:
 o Using a sample NLM JATS XML Document
